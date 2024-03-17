@@ -1,7 +1,7 @@
 
 # Python For Data Sciences
-Mentee assignment from IBM Advance AI Infinite Learning
-[Project Python For Data Sciences]
+Mentee assignment from IBM Advance AI Infinite Learning\
+[Project Python For Data Science]\ (https://apps.cognitiveclass.ai/learning/course/course-v1:CognitiveClass+PY0101EN+v3/home) \ (https://www.kaggle.com/code/billycemerson/analisis-sentimen-intensif-mobil-listrik-svm/)
 
 ## Info
 Name: Muhammad Hadi Khairullah\
