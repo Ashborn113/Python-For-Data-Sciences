@@ -7,5 +7,5 @@ Mentee assignment from IBM Advance AI Infinite Learning\
 ## Info
 Name: Muhammad Hadi Khairullah\
 Program: IBM Advance AI\
-Personal Mentor : Ichsan Takwa
+Personal Mentor : Ichsan Takwa\
 Author : BILIARTO SASTRO CEMERSON
